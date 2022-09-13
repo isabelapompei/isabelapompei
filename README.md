@@ -8,7 +8,7 @@ Durante meu período na academia, me envolvi em grupos de pesquisa, Centro acdê
 ------------------------------------------------------------------------------------------
 Trabalho na área de dados desde 2022, descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. Atualmente sou estagiária de Planejamento e Performance | Analise de BI na Petlove. 
 
-Meu principal desafio hoje é entender os conceitos e métricas de negócios utilizando a análise de dados, utilizando ferramentas como SQL, GCP, Python, R, MicrosoftPowerBI, e também tendo a oportunidade de realizar demandas em ferramentas como Arqgis, Organge3, entre outras...
+Meu principal desafio hoje é entender os conceitos e métricas de negócios utilizando a análise de dados, utilizando ferramentas como SQL, GCP, Python, R, MicrosoftPowerBI, e também tendo a oportunidade de realizar demandas em ferramentas como Arqgis, entre outras
 
 ## Habilidades 📈
 ------------------------------------------------------------------------------------------
